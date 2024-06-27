@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Bootcamp\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\BootcampSecurity.MS-Auth.Domain.csproj",
+      "projectUniqueName": "C:\\Bootcamp githun\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\BootcampSecurity.MS-Auth.Domain.csproj",
       "projectName": "BootcampSecurity.MS-Auth.Domain",
-      "projectPath": "C:\\Bootcamp\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\BootcampSecurity.MS-Auth.Domain.csproj",
+      "projectPath": "C:\\Bootcamp githun\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\BootcampSecurity.MS-Auth.Domain.csproj",
       "packagesPath": "C:\\Users\\cesar.ruiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Bootcamp\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\obj\\",
+      "outputPath": "C:\\Bootcamp githun\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

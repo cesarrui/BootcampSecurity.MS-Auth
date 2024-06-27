@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uNaljlFl5rqKeDlv2qN6mKA74og7P0fJTOOqjtR2kNKG5ZihqQ3C7EVH8rgAn5vgmBcQG3wmeevWMkxXKGu//A==",
+  "dgSpecHash": "1Ph/9hIuuTo+AWUAXIO/wYo9cf/qtPQKf0azn3lRzTOi2qLnFxCRY0Xmo4Zn8WEZHzF1hqGd4Ad6SKwT07JlUw==",
   "success": true,
-  "projectFilePath": "C:\\Bootcamp\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\BootcampSecurity.MS-Auth.Domain.csproj",
+  "projectFilePath": "C:\\Bootcamp githun\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\BootcampSecurity.MS-Auth.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar.ruiz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

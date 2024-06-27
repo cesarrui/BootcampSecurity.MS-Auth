@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BootcampSecurity.MS-Auth.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a21c095341c20de4cf62d20af4ac7527c9e48659")]
 [assembly: System.Reflection.AssemblyProductAttribute("BootcampSecurity.MS-Auth.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BootcampSecurity.MS-Auth.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

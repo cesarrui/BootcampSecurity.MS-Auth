@@ -211,11 +211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Bootcamp\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Infraestructure\\BootcampSecurity.MS-Auth.Infraestructure.csproj",
+      "projectUniqueName": "C:\\Bootcamp githun\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Infraestructure\\BootcampSecurity.MS-Auth.Infraestructure.csproj",
       "projectName": "BootcampSecurity.MS-Auth.Infraestructure",
-      "projectPath": "C:\\Bootcamp\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Infraestructure\\BootcampSecurity.MS-Auth.Infraestructure.csproj",
+      "projectPath": "C:\\Bootcamp githun\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Infraestructure\\BootcampSecurity.MS-Auth.Infraestructure.csproj",
       "packagesPath": "C:\\Users\\cesar.ruiz\\.nuget\\packages\\",
-      "outputPath": "C:\\Bootcamp\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Infraestructure\\obj\\",
+      "outputPath": "C:\\Bootcamp githun\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -237,8 +237,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Bootcamp\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\BootcampSecurity.MS-Auth.Domain.csproj": {
-              "projectPath": "C:\\Bootcamp\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\BootcampSecurity.MS-Auth.Domain.csproj"
+            "C:\\Bootcamp githun\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\BootcampSecurity.MS-Auth.Domain.csproj": {
+              "projectPath": "C:\\Bootcamp githun\\BootcampSecurity.MS-Auth\\BootcampSecurity.MS-Auth.Domain\\BootcampSecurity.MS-Auth.Domain.csproj"
             }
           }
         }
