@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampSecurity.MS-Auth", "BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.csproj", "{9FE9FCD5-416A-47D7-B566-FE2EB9D01D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampSecurity.MS-Auth.Domain", "BootcampSecurity.MS-Auth.Domain\BootcampSecurity.MS-Auth.Domain.csproj", "{6F489F97-2BD4-427F-9F6E-FE2E1C63CEB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampSecurity.MS-Auth.Infraestructure", "BootcampSecurity.MS-Auth.Infraestructure\BootcampSecurity.MS-Auth.Infraestructure.csproj", "{E66D367E-5398-4E47-BA3B-6635A93E8175}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Application", "1-Application", "{89B3F567-6B61-4554-943D-B0F2725793BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{A80260C8-336C-4F89-AD04-3F49A9810EB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Infraestructure", "3-Infraestructure", "{4C43C0C2-BBE5-4FCB-9C8F-862A2E9A0BE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE9FCD5-416A-47D7-B566-FE2EB9D01D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE9FCD5-416A-47D7-B566-FE2EB9D01D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE9FCD5-416A-47D7-B566-FE2EB9D01D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE9FCD5-416A-47D7-B566-FE2EB9D01D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F489F97-2BD4-427F-9F6E-FE2E1C63CEB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F489F97-2BD4-427F-9F6E-FE2E1C63CEB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F489F97-2BD4-427F-9F6E-FE2E1C63CEB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F489F97-2BD4-427F-9F6E-FE2E1C63CEB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66D367E-5398-4E47-BA3B-6635A93E8175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66D367E-5398-4E47-BA3B-6635A93E8175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66D367E-5398-4E47-BA3B-6635A93E8175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66D367E-5398-4E47-BA3B-6635A93E8175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9FE9FCD5-416A-47D7-B566-FE2EB9D01D14} = {89B3F567-6B61-4554-943D-B0F2725793BE}
+		{6F489F97-2BD4-427F-9F6E-FE2E1C63CEB3} = {A80260C8-336C-4F89-AD04-3F49A9810EB7}
+		{E66D367E-5398-4E47-BA3B-6635A93E8175} = {4C43C0C2-BBE5-4FCB-9C8F-862A2E9A0BE4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACEEB300-371E-4A80-A77E-F6F576CBA18E}
+	EndGlobalSection
+EndGlobal
