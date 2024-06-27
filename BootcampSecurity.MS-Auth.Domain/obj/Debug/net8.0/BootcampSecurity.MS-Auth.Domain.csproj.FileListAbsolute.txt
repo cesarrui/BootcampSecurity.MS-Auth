@@ -1,0 +1,12 @@
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\bin\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.deps.json
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\bin\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.dll
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\bin\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.pdb
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.csproj.AssemblyReference.cache
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.AssemblyInfoInputs.cache
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.AssemblyInfo.cs
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.csproj.CoreCompileInputs.cache
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.dll
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\obj\Debug\net8.0\refint\BootcampSecurity.MS-Auth.Domain.dll
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.pdb
+C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Domain\obj\Debug\net8.0\ref\BootcampSecurity.MS-Auth.Domain.dll
