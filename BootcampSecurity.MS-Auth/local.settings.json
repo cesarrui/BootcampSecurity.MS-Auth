@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "Secret": "BC42CC14-EC9B-4B5B-B253-F3443B05A436",
+    "UserValidate": "SP_FindUser",
+    "SearchToken": "SP_GetTokenByUserId",
+    "InsertToken": "SP_InsertToken",
+    "CreateOrUpdate": "SP_UpsertToken"
+
+
+  },
+  "ConnectionStrings": {
+    "dbLibrary": "Server=WSVLSAAD006\\SQLEXPRESS;Database=db-libreria;User Id=usrdblibreria;Password=BC42CC14-EC9B-4B5B-B253-F3443B05A436; Encrypt=True; TrustServerCertificate=True;"
+  }
+}

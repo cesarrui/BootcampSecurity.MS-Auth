@@ -13,3 +13,19 @@ C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\ob
 C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\refint\BootcampSecurity.MS-Auth.Infraestructure.dll
 C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.pdb
 C:\Bootcamp\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\ref\BootcampSecurity.MS-Auth.Infraestructure.dll
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\bin\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.deps.json
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\bin\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.dll
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\bin\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.pdb
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\bin\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.dll
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\bin\Debug\net8.0\BootcampSecurity.MS-Auth.Domain.pdb
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.csproj.AssemblyReference.cache
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.AssemblyInfoInputs.cache
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.AssemblyInfo.cs
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.sourcelink.json
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\Bootcamp.01DFF612.Up2Date
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.dll
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\refint\BootcampSecurity.MS-Auth.Infraestructure.dll
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\BootcampSecurity.MS-Auth.Infraestructure.pdb
+C:\Bootcamp githun\BootcampSecurity.MS-Auth\BootcampSecurity.MS-Auth.Infraestructure\obj\Debug\net8.0\ref\BootcampSecurity.MS-Auth.Infraestructure.dll
